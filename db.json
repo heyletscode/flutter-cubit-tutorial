@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "todo": "Get milk from the cow shop",
+      "isCompleted": "false",
+      "id": 1
+    },
+    {
+      "todo": "Something meaningful ",
+      "isCompleted": "true",
+      "id": 3
+    }
+  ]
+}
